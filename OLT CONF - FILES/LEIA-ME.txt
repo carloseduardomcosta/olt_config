@@ -1,0 +1,15 @@
+Olá. Obrigado por usar nosso software, em caso de dúvidas nos contate no 
+número oficial de suporte.
+
+=======
+
+Versão 1.1
+
+Realizamos melhorias no código e corrigimos alguns bugs encontrados.
+Além disso, acrescentamos novas funcionalidades, segue:
+
+ - Menu mais intuitivo.
+ - Copiar saída de comando automaticamente, basta colar direto em sua OLT.
+ - Novo MENU c/ mais opções nas OLTs G16 e G08.
+ - Validação de entrada de dados aprimorado.
+
